@@ -62,7 +62,7 @@ stop: ```docker-compose up```
 ```docker exec -it [container_name] bash```
 
 ## 6. Enter the MySQL client via terminal (bash shell) (1 point)
-_____________ (To complete)
+```docker exec -it [container_name] bash```
 
 ## 7. Monitoring the development of this Sprint (1 point)
 Look at the `Issues` and `Projects` menus in this repository
