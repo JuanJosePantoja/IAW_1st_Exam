@@ -7,7 +7,7 @@
 | Curs           | 2020/2021                                           |
 | Assignatura    | Implantació d'aplicacions web                       |
 | Data           | 30/11/2020                                          |
-| Alumne         | ______________________________________________      |
+| Alumne         | Juan José Pantoja_____________________________      |
 
 ## Statement
 
@@ -49,16 +49,17 @@ The points you have to deliver for this practice are:
 Look at the `Dockerfile`, `docker-compose.yml` and `www\config.php` files in this repository.
 
 ## 2. Prerequisites (1 point)
-_____________ (To complete)
+git, docker, docker-compose
 
 ## 3. Run and stop the containers (1 point)
-_____________ (To complete)
+run:```docker-compose up```
+stop: ```docker-compose up```
 
 ## 4. Access the web application and phpMyAdmin (1 point)
-_____________ (To complete)
+```localhost:8081```
 
 ## 5. Enter via terminal (bash shell) the containers (1 point)
-_____________ (To complete)
+```docker exec -it [container_name] bash```
 
 ## 6. Enter the MySQL client via terminal (bash shell) (1 point)
 _____________ (To complete)
